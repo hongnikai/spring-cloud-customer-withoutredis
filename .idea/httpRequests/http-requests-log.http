@@ -1,0 +1,10 @@
+POST http://localhost:9000/api/user/user/login?username=root&password=123456
+Accept: */*
+Cache-Control: no-cache
+
+{"username":"root","password":"123456"}
+
+<> 2020-07-29T023704.200.txt
+
+###
+
